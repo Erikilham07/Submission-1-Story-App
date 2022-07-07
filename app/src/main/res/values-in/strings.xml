@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My StoryApp</string>
+    <string name="image_signup">Gambar Signup</string>
+    <string name="title_signup_page">Lengkapi data Anda di bawah ini</string>
+    <string name="name">Nama</string>
+    <string name="name_hint">Masukkan Nama</string>
+    <string name="email">Email</string>
+    <string name="min_length">Minimal Length %1$d characters</string>
+    <string name="invalid_email">Format email tidak sesuai!</string>
+    <string name="email_hint">Masukkan Email</string>
+    <string name="message_validation">Masukkan %1$s</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Masukkan password</string>
+    <string name="signup">Daftar</string>
+    <string name="signup_description">Sudah punya akun ?</string>
+    <string name="login">Masuk</string>
+    <string name="copyright">© 2021 Dicoding</string>
+    <string name="login_description">Belum punya akun ?</string>
+    <string name="login_error">Masuk gagal, silahkan coba lagi!</string>
+    <string name="signup_error">Daftar gagal, silahkan coba lagi!</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description_hint">Masukkan deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="permission_denied">Tidak dapat mendapatkan izin</string>
+    <string name="input_your_image">Upload gambar terlebih dahulu!</string>
+    <string name="choose_picture">Pilih gambar</string>
+    <string name="avatar">Avatar</string>
+    <string name="username">Username</string>
+    <string name="description">Deskripsi</string>
+    <string name="created_at">Dibuat pada</string>
+    <string name="logout">Keluar</string>
+    <string name="setting">Pengaturan</string>
+</resources>
